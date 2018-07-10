@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+.head {
+   color: white; 
+   font-family: Wendy One;
+}
+body{
+    background:#bc0f7c;
+}
+.search {
+    border:2px solid;
+    border-radius: 4px;
+    width: 70%;
+    height: 25px;
+    
+}
+button{
+    background: #25ecec;
+    height: 27px;
+    width: 27px;
+    border: 2px solid;
+    border-radius: 4px;
+    background-image: url('../images/search.png');
+
+
+}
+
