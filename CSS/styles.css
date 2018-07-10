@@ -23,4 +23,14 @@ button{
 
 
 }
+.select{
+	width:25%;
+	height:25px;
+}
+.tags{
+	border:2px solid;
+    	border-radius: 4px;
+    	width: 70%;
+    	height: 25px;
+}
 
