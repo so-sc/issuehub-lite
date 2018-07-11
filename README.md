@@ -1,1 +1,2 @@
-# issuehub-lite
+# IssueHub Lite
+As We Know about Issuehub where a person searches their repostories which is beginner level or has some bugs . This is a lite version where only one tag can be added and for a plus point where I've added Intermmediate(for those who doesnt want 101 projects but arent sure about themselves) and Professional(for those who are confident about what projects they do).
